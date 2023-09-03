@@ -1,6 +1,6 @@
 # Discord Bot for Twitter Verification
 
-![GitHub](https://img.shields.io/github/license/yourusername/your-repo)
+![GitHub](https://img.shields.io/github/license/UPavankumar/Twitter_Discord_verification_bot)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Discord.py](https://img.shields.io/badge/discord.py-1.7%2B-blue)
 
