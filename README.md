@@ -1,6 +1,5 @@
 # Discord Bot for Twitter Verification
 
-![GitHub](https://img.shields.io/github/license/UPavankumar/Twitter_Discord_verification_bot)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Discord.py](https://img.shields.io/badge/discord.py-1.7%2B-blue)
 
@@ -39,10 +38,6 @@ This Discord bot allows server administrators to implement a Twitter account ver
 ## Contributions
 
 Contributions and suggestions are welcome! Feel free to open issues, submit pull requests, or provide feedback to help improve this Discord bot.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
